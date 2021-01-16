@@ -1,2 +1,2 @@
 # Stock_Price_Prediction
-The algorithm that is used for this project is Recurrent Neural Networks(Deep Learning).
+This project is built using the Recurrent Neural Networks(Deep learning) algorithm. 
